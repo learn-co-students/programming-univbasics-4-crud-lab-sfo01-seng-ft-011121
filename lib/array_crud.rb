@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  num_of_fucks = [0, 0, 0, 0]
+  arr = [0, 0, 0, 0]
 end
 
 def add_element_to_end_of_array(array, element)
